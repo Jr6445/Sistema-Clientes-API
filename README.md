@@ -52,7 +52,7 @@ Este proyecto es un backend para la gestión de clientes, incluyendo sus direcci
    npm start
    ```
 
-   El servidor estará disponible en `http://localhost:3000`.
+   El servidor estará disponible en `http://localhost:3001`.
 
 ---
 
