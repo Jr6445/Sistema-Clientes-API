@@ -1,5 +1,3 @@
-Aquí tienes el texto completo para tu archivo `README.md`:
-
 ```markdown
 # Sistema de Gestión de Clientes
 
